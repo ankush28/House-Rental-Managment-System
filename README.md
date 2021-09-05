@@ -2,8 +2,8 @@ House Rental Management System in PHP
 
 **Login Details**
 
-Username: harry
-Password: code0
+#Username: harry
+#Password: code0
 
 
 
